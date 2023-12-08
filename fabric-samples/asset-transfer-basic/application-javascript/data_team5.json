@@ -1,0 +1,93 @@
+[
+  {
+    "RID": "5100",
+    "Readings": {
+      "Equipment_ID": "3",
+      "Latitude": "5",
+      "Longitude": "5",
+      "Power": "1",
+      "RFID": "1"
+    },
+    "SID": "0",
+    "Team": "team5",
+    "Time": "2023-11-25T03:36:06.010Z"
+  },
+  {
+    "RID": "5200",
+    "Readings": {
+      "Equipment_ID": "78",
+      "Latitude": "30",
+      "Longitude": "130",
+      "Power": "0",
+      "RFID": "2"
+    },
+    "SID": "0",
+    "Team": "team5",
+    "Time": "2023-11-25T03:38:08.640Z"
+  },
+  {
+    "RID": "5201",
+    "Readings": {
+      "Equipment_ID": "78",
+      "Latitude": "30",
+      "Longitude": "130",
+      "Power": "0",
+      "RFID": "2"
+    },
+    "SID": "1",
+    "Team": "team5",
+    "Time": "2023-11-25T03:38:19.882Z"
+  },
+  {
+    "RID": "5202",
+    "Readings": {
+      "Equipment_ID": "90",
+      "Latitude": "50",
+      "Longitude": "150",
+      "Power": "0",
+      "RFID": "0"
+    },
+    "SID": "0",
+    "Team": "team5",
+    "Time": "2023-11-25T03:38:28.516Z"
+  },
+  {
+    "RID": "5203",
+    "Readings": {
+      "Equipment_ID": "90",
+      "Latitude": "50",
+      "Longitude": "150",
+      "Power": "0",
+      "RFID": "0"
+    },
+    "SID": "1",
+    "Team": "team5",
+    "Time": "2023-11-25T03:38:38.504Z"
+  },
+  {
+    "RID": "5204",
+    "Readings": {
+      "Equipment_ID": "105",
+      "Latitude": "75",
+      "Longitude": "175",
+      "Power": "1",
+      "RFID": "2"
+    },
+    "SID": "0",
+    "Team": "team5",
+    "Time": "2023-11-25T03:38:49.869Z"
+  },
+  {
+    "RID": "5205",
+    "Readings": {
+      "Equipment_ID": "102",
+      "Latitude": "70",
+      "Longitude": "170",
+      "Power": "0",
+      "RFID": "1"
+    },
+    "SID": "1",
+    "Team": "team5",
+    "Time": "2023-11-25T03:38:58.519Z"
+  }
+]

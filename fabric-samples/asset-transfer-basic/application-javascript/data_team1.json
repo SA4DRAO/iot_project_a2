@@ -1,0 +1,98 @@
+[
+  {
+    "RID": "1100",
+    "Readings": {
+      "AirQuality": "50",
+      "Humidity": "20",
+      "Light": "5",
+      "Temperature": "5"
+    },
+    "SID": "1",
+    "Team": "team1",
+    "Time": "2023-11-25T03:36:05.423Z"
+  },
+  {
+    "RID": "1101",
+    "Readings": {
+      "AirQuality": "0",
+      "Humidity": "40",
+      "Light": "0",
+      "Temperature": "10"
+    },
+    "SID": "0",
+    "Team": "team1",
+    "Time": "2023-11-25T03:36:09.358Z"
+  },
+  {
+    "RID": "1102",
+    "Readings": {
+      "AirQuality": "50",
+      "Humidity": "60",
+      "Light": "5",
+      "Temperature": "15"
+    },
+    "SID": "0",
+    "Team": "team1",
+    "Time": "2023-11-25T03:36:12.874Z"
+  },
+  {
+    "RID": "1200",
+    "Readings": {
+      "AirQuality": "0",
+      "Humidity": "0",
+      "Light": "0",
+      "Temperature": "50"
+    },
+    "SID": "0",
+    "Team": "team1",
+    "Time": "2023-11-25T03:38:22.358Z"
+  },
+  {
+    "RID": "1201",
+    "Readings": {
+      "AirQuality": "50",
+      "Humidity": "80",
+      "Light": "5",
+      "Temperature": "45"
+    },
+    "SID": "1",
+    "Team": "team1",
+    "Time": "2023-11-25T03:38:32.408Z"
+  },
+  {
+    "RID": "1202",
+    "Readings": {
+      "AirQuality": "50",
+      "Humidity": "0",
+      "Light": "5",
+      "Temperature": "75"
+    },
+    "SID": "0",
+    "Team": "team1",
+    "Time": "2023-11-25T03:38:42.989Z"
+  },
+  {
+    "RID": "1203",
+    "Readings": {
+      "AirQuality": "50",
+      "Humidity": "60",
+      "Light": "5",
+      "Temperature": "65"
+    },
+    "SID": "1",
+    "Team": "team1",
+    "Time": "2023-11-25T03:38:52.413Z"
+  },
+  {
+    "RID": "1204",
+    "Readings": {
+      "AirQuality": "50",
+      "Humidity": "80",
+      "Light": "5",
+      "Temperature": "95"
+    },
+    "SID": "0",
+    "Team": "team1",
+    "Time": "2023-11-25T03:39:03.719Z"
+  }
+]

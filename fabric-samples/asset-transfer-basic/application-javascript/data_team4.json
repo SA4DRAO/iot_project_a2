@@ -1,0 +1,101 @@
+[
+  {
+    "RID": "4100",
+    "Readings": {
+      "Apnea": "1",
+      "Quality": "2",
+      "Snoring": "1"
+    },
+    "SID": "0",
+    "Team": "team4",
+    "Time": "2023-11-25T03:36:04.731Z"
+  },
+  {
+    "RID": "4101",
+    "Readings": {
+      "Apnea": "0",
+      "Quality": "4",
+      "Snoring": "0"
+    },
+    "SID": "1",
+    "Team": "team4",
+    "Time": "2023-11-25T03:36:09.512Z"
+  },
+  {
+    "RID": "4102",
+    "Readings": {
+      "Apnea": "1",
+      "Quality": "6",
+      "Snoring": "1"
+    },
+    "SID": "1",
+    "Team": "team4",
+    "Time": "2023-11-25T03:36:11.954Z"
+  },
+  {
+    "RID": "4200",
+    "Readings": {
+      "Apnea": "0",
+      "Quality": "52",
+      "Snoring": "0"
+    },
+    "SID": "0",
+    "Team": "team4",
+    "Time": "2023-11-25T03:38:13.458Z"
+  },
+  {
+    "RID": "4201",
+    "Readings": {
+      "Apnea": "1",
+      "Quality": "58",
+      "Snoring": "1"
+    },
+    "SID": "1",
+    "Team": "team4",
+    "Time": "2023-11-25T03:38:22.990Z"
+  },
+  {
+    "RID": "4202",
+    "Readings": {
+      "Apnea": "0",
+      "Quality": "60",
+      "Snoring": "0"
+    },
+    "SID": "0",
+    "Team": "team4",
+    "Time": "2023-11-25T03:38:34.270Z"
+  },
+  {
+    "RID": "4203",
+    "Readings": {
+      "Apnea": "0",
+      "Quality": "68",
+      "Snoring": "0"
+    },
+    "SID": "1",
+    "Team": "team4",
+    "Time": "2023-11-25T03:38:43.299Z"
+  },
+  {
+    "RID": "4204",
+    "Readings": {
+      "Apnea": "0",
+      "Quality": "68",
+      "Snoring": "0"
+    },
+    "SID": "0",
+    "Team": "team4",
+    "Time": "2023-11-25T03:38:53.248Z"
+  },
+  {
+    "RID": "4205",
+    "Readings": {
+      "Apnea": "0",
+      "Quality": "76",
+      "Snoring": "0"
+    },
+    "SID": "1",
+    "Team": "team4",
+    "Time": "2023-11-25T03:39:03.038Z"
+  }
+]
