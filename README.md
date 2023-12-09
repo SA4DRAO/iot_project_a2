@@ -51,7 +51,10 @@ Welcome to the private blockchain solution for storing health data using Hyperle
     ```bash
     podman run -dt --name my_mongo -p 27017:27017 docker.io/library/mongo:latest
     ```
-
+7. Run the server for each team's sensors
+   ```bash
+   node team1.js
+   ```
 ---
 
 ## Backend Code
